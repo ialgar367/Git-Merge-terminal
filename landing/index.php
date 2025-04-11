@@ -39,6 +39,9 @@
 </head>
 
 <body class="index-page">
+<h1>Hola Soy Alumno A</h1>
+	<p>Estoy trabajando en zona1</p>
+	<p>Poniendo texto en castellano</p>
 
 <?php include ("includes/templates/header.php"); ?>
 
